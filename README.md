@@ -37,6 +37,7 @@ Use the [edw_paragraphs](https://github.com/eaudeweb/edw_paragraphs) module to e
 Use [countries_import](https://www.drupal.org/project/countries_import) module to import Geographical coverage.
 
 ## Other EDW modules:
+* [edw_blocks](https://github.com/eaudeweb/edw_blocks)
 * [edw_decoupled](https://github.com/eaudeweb/edw_decoupled)
 * [edw_demo_data](https://github.com/eaudeweb/edw_demo_data)
 * [edw_document](https://github.com/eaudeweb/edw_document)
@@ -44,7 +45,6 @@ Use [countries_import](https://www.drupal.org/project/countries_import) module t
 * [edw_group](https://github.com/eaudeweb/edw_group)
 * [edw_media](https://github.com/eaudeweb/edw_media)
 * [edw_paragraphs](https://github.com/eaudeweb/edw_paragraphs)
-* [edw_person](https://github.com/eaudeweb/edw_person)
 * [edw_project](https://github.com/eaudeweb/edw_project)
 * [edw_themes](https://github.com/eaudeweb/edw_themes)
 * [edw_utilities](https://github.com/eaudeweb/edw_utilities)
