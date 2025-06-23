@@ -1,0 +1,13 @@
+{
+    "name": "eaudeweb/edw_person",
+    "description": "Enable the person module to provide content managers with the ability to manage people within Drupal",
+    "type": "drupal-module",
+    "authors": [
+        {
+            "name": "dtabirca",
+            "email": "dtabirca@1029792.no-reply.drupal.org"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
